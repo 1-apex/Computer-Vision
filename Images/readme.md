@@ -1,1 +1,1 @@
-Has the images used for the experiments needed.
+Storage of Images used in the experiments.
